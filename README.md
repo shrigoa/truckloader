@@ -2,3 +2,8 @@
 2. Download Truckloader.py and run it on local.
 3. Upload Truckloader.xlsx and click on submit.
 4. Wait for 'Optimal Truck Loader.xlsx' file to get downloaded automatically.
+
+Requirements
+[Github](https://github.com/)
+[Heroku](https://www.heroku.com/)
+[GitBash](https://git-scm.com/)
